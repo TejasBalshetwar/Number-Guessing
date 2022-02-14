@@ -14,8 +14,7 @@ html {
 body {
   font-family: 'Press Start 2P', sans-serif;
   color: #eee;
-  background-color: #222;
-  /* background-color: #60b347; */
+  background-color: #000000;
 }
 
 /* LAYOUT */
@@ -45,7 +44,7 @@ main {
   font-size: 2rem;
 }
 
-/* ELEMENTS STYLE */
+/* elements CSS */
 h1 {
   font-size: 4rem;
   text-align: center;
